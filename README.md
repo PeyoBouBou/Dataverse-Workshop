@@ -6,7 +6,7 @@
   <!-- <a href="https://dataverseworkshop.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Dataverse Workshop / Zero to Hero</h1>
+<h1 align="center">Dataverse Workshop</h1>
 
 <!-- Status -->
 
@@ -16,29 +16,16 @@
 
 <hr> -->
 
-<p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/PeyoBouBou" target="_blank">Author</a>
-</p>
-
 <br>
 
 ## :dart: About ##
 
-Sauvegarde de la Solution Bibilothèque qui accompagne le Workshop : [Dataverse, from zero to hero !](https://aka.ms/workshop/dataverse)
-
-
-## :white_check_mark: Requirements ##
-
-- Il faut un environement standard Pwoer Apps
-- La Solution est *- Unmanaged -*
+Sauvegarde des sources pour les Workshops Dataverse
 
 
 ## :memo: License ##
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+This project is under license from MIT.
 
 
 Made with :heart: by <a href="https://github.com/PeyoBouBou" target="_blank">Pierre Bourdial</a>
