@@ -1,12 +1,6 @@
-<div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Dataverse Workshop" />
+![Dataverse_icon_green](https://user-images.githubusercontent.com/6080558/134653902-5532e838-04cc-4488-9569-40d643fb184c.png)
 
-  &#xa0;
-
-  <!-- <a href="https://dataverseworkshop.netlify.app">Demo</a> -->
-</div>
-
-<h1 align="center">Dataverse Workshop / Zero to Hero</h1>
+# Dataverse Workshop / Zero to Hero
 
 <!-- Status -->
 
@@ -16,7 +10,7 @@
 
 <hr> -->
 
-<p align="center">
+<p>
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
